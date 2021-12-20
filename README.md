@@ -1,4 +1,4 @@
-# Criando_APP_Cadastro_S-ries_.NET
+# Criando_APP_Cadastro
 ## Porjeto feito no bootCamp
 - Aprendendo a fazer um cadastro de series simples
 - Entendendo melhor como funciona a interação entre as classes
